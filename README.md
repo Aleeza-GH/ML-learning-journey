@@ -100,4 +100,3 @@ ML-learning-journey/
 ---
 
 *⭐ Consistently updated as I progress through my ML journey.*<img width="1280" height="720" alt="WhatsApp Image 2026-06-16 at 8 45 10 AM" src="https://github.com/user-attachments/assets/2cf26f77-5f06-46f6-a3d3-3ba45662fbd8" />
-<img width="1280" height="720" alt="WhatsApp Image 2026-06-16 at 8 45 10 AM" src="https://github.com/user-attachments/assets/1549d964-9dda-41a3-8711-ec3d6c558c69" />
